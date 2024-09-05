@@ -1,3 +1,5 @@
+#ev=Σdict[pos_y,pos_x,words,R,G,B]
+
 from PIL import Image
 
 img = Image.open('')
